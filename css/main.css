@@ -1,0 +1,100 @@
+
+
+
+
+body {
+	font-family: 'Noto Sans', sans-serif;
+	background: -webkit-linear-gradient(rgba(251, 255, 251, .75), rgba(255, 115, 115, .25)), url(../img/intelli.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	font-size: 14px;
+	text-align: center;
+}
+
+.container {
+	max-width: 60%;
+	margin: 0 auto;
+
+}
+
+h1 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 38.5px;
+	line-height: 40px;
+	text-align: center;
+	padding: 20px;
+	text-shadow: 2px 2px #FF4040;
+	text-shadow: 4px 4px #FF7373;
+	color: #0D182C;
+}
+
+h2 {
+	font-family: noto serif;
+	font-size: 27px;
+}
+
+h3 {
+	font-family: noto sans;
+	font-size: 22px;
+	line-height: 26px;
+	padding: 20px 10px 30px 10px;
+
+}
+
+.btn-large {
+  font-family: noto sans;
+  margin:30px;
+  background-color: #dcdcdc;
+  border: 1px solid #666;
+  color: white;
+  text-decoration:none;
+}
+
+
+footer {
+  font-family: noto serif;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  right: 0;
+  background: rgba(0, 0, 0, .5);
+  color: #FF7373;
+  text-shadow: 1px 1px #000000;
+}
+
+
+
+/*#charge-form {*/
+  width: 15%;
+  padding: 8%;
+  border: 1px solid #ddd;
+  border-radius: 7px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  background-color: #fbfbfb;
+  text-align: center;
+  margin: 0 auto 3em;
+}
+
+#details {
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Noto Sans', sans-serif;
+	color: gray;
+
+}
+
+#feeling {
+	display: block;
+	margin: 20 20 20 20;
+}
+
+#productivity {
+	display: block;
+	margin: 20 20 50 20;
+}
+
+.btn {
+	margin-bottom: 20px;
+}
+
