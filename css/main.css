@@ -17,6 +17,11 @@ body {
 
 }
 
+header {
+	background: rgba(255, 255, 255, .45);
+	max-height:50px;
+}
+
 h1 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 38.5px;
