@@ -64,7 +64,7 @@ footer {
   left: 0;
   position: fixed;
   right: 0;
-  background: rgba(0, 0, 0, .5);
+  background: rgba(0, 0, 0, .675);
   color: #FF7373;
   text-shadow: 1px 1px #000000;
 }
